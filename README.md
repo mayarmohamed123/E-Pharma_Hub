@@ -1,0 +1,2 @@
+# E-Pharma_Hub
+E-Pharma Hub is a complete online pharmacy management and drug search platform. It enables users to easily find medications, locate nearby pharmacies, order online, and interact directly with pharmacists. It also offers pharmacies powerful tools for inventory management, e-prescription support, analytics, customer chats, and more
